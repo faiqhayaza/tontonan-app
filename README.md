@@ -24,3 +24,12 @@ same link and install it over the old one — your favorites and settings
 are kept.
 
 This repository hosts the official release binaries only.
+
+## How releases are published
+
+The app source lives in the private `faiqhayaza/tontonan-android`
+repository. Releases are built and signed locally on Faiq's PC
+(the signing keystore is kept off GitHub), then published here as
+a GitHub Release with the asset named exactly `Tontonan.apk`,
+tagged `vX.Y.Z`. The download link above always serves the newest
+release.
