@@ -19,7 +19,7 @@ an updated file.
    browser — allow it for this install.
 3. Tap **Install**. Done — the app appears in your launcher/app drawer.
 
-Requires Android 6.0 or newer. Updates: download the newest APK from the
+Requires Android 7.0 or newer. Updates: download the newest APK from the
 same link and install it over the old one — your favorites and settings
 are kept.
 
